@@ -1,5 +1,7 @@
 # Tag-scraper
-Get the tags form different websites. Youtube,Odysee and similar sites will work.[Made as a project for learninng purposes :) ]
+Get the tags form different websites. Youtube,Odysee and similar sites will work.
+
+Made as a project for learninng purposes :) 
 
 Enter the url of a video and thats it!
 
