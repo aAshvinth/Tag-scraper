@@ -2,7 +2,7 @@
 # Tag-scraper
 Get Video Tags 🎬🔍
 
-This is a simple Python program that scrapes the keywords/tags for a given YouTube video URL and saves them to a file.
+This is a simple Python program that scrapes the keywords/tags for a given YouTube,Odysee(and similar) video URL and saves them to a file.
 
 ### How it Works 🤔
 
