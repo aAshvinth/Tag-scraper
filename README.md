@@ -20,7 +20,7 @@ To use the program, simply enter the URL of the YouTube video you want to scrape
 
 ## windows:
 
-You can <a href="https://github.com/aAshvinth/Tag-scraper/raw/main/Tag%20scraper%20-%20aAshvinth.zip">download</a> the program for windows as the compressed .rar file.
+You can <a href="https://github.com/aAshvinth/Tag-scraper/raw/main/Tag%20scraper%20-%20aAshvinth.zip">download</a> the program for windows as the compressed .rar file and simply run the exe.
 
 ## Other operating systems:
 
